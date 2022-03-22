@@ -51,3 +51,11 @@ Para comenzar podemos crear la siguiente estructura:
 <div><img src="img/configurations.png"></div>
 
 Con estas configuraciones le daremos soporte de autocompletado y más acciones referentes al lenguaje GO.
+
+## Documentación GO
+Para consultar la documentación de los comandos sol ingresa al siguiente enlace: [Enlace](https://pkg.go.dev/cmd).
+
+Para verlo desde consola sólo hay que poner el comando `go doc fmt`
+
+Para consultar paquetes presiona [Aquí](https://pkg.go.dev/std)
+
